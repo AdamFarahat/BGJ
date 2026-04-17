@@ -1,7 +1,14 @@
 fileFormatVersion: 2
-guid: 5e9039013b224384b9b590ce2cf4bcf6
+guid: 9cdf6dc5d95f5b94cba414c3008c5c76
 AssemblyDefinitionImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311497
+  packageName: FMOD for Unity (2.03)
+  packageVersion: 2.03.13
+  assetPath: Assets/Plugins/FMOD/addons/Haptics/Scripts/FMODUnityHaptics.asmdef
+  uploadId: 896922

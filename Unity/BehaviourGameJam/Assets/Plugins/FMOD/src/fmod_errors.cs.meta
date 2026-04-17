@@ -1,2 +1,17 @@
 fileFormatVersion: 2
-guid: 8c9d50a9dad9c8147830ffc9f5b59067
+guid: 6e0992509b0077e479d2da05c8f52eb0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311497
+  packageName: FMOD for Unity (2.03)
+  packageVersion: 2.03.13
+  assetPath: Assets/Plugins/FMOD/src/fmod_errors.cs
+  uploadId: 896922

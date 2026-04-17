@@ -1,2 +1,19 @@
 fileFormatVersion: 2
-guid: dfa1ae2c0531b1249a1202b644bd7531
+guid: 5e5fb8ce07f0ce84b9d1852869527ea5
+timeCreated: 1444628977
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311497
+  packageName: FMOD for Unity (2.03)
+  packageVersion: 2.03.13
+  assetPath: Assets/Plugins/FMOD/src/RuntimeManager.cs
+  uploadId: 896922
